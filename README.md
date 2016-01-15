@@ -6,11 +6,12 @@ Currently nothing but the intention is to inclde the majority of content that [G
 ## How to update
 ### Step 1. Run ETL Script
 #### Requirements
-Install python pandas (as described in [pandas][pandas])
+Install python pandas (as described in [ETL Script Requirements][etl_req])
 
 #### Run
 
-    python data_process/etl/run.py
+    $cd ../data_process/etl/
+    $python run.py
 
 ### Step 2. Edit manual files
 
@@ -19,4 +20,4 @@ Gapmidner created this dataset and provides it under [Creative Common Attributio
 
 [CC]: https://creativecommons.org/licenses/by/4.0/
 [GADM]:  http://www.gadm.org/
-[pandas]: http://www.gadm.org/
+[etl_req]: https://github.com/open-numbers/py-scripts/wiki/Python-ETL-Requirements
