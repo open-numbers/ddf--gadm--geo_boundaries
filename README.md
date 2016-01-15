@@ -10,7 +10,7 @@ Install python pandas (as described in [pandas][pandas])
 
 #### Run
 
-    python etl/process.py
+    python data_process/etl/run.py
 
 ### Step 2. Edit manual files
 
