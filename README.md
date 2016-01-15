@@ -1,8 +1,6 @@
-This dataset contains geographic boundaries of subdivisions of countries.
+This dataset contains geographic boundaries of subdivisions of countries, mainly from [GADM][GADM], which is a spatial database of the location of the world's administrative areas (or adminstrative boundaries) for use in GIS and similar software. See [GADM][GADM] for more info about the underlaying data and the coverage.
 
-Most of the data comes from [GADM][GADM], which is a spatial database of the location of the world's administrative areas (or adminstrative boundaries) for use in GIS and similar software. This is work in progress. We intend to keep all gadm subdivisions in ddf format. See [GADM] for more info.
-
-## Dataset scope
+## Dataset content
 Currently nothing.
 
 ## How to update
@@ -17,7 +15,9 @@ Install python pandas (as described in [pandas][pandas])
 ### Step 2. Edit manual files
 
 ## License
-[Creative Common Attribution 4.0 International][CC]
+
+## License
+Gapmidner created this dataset and provides it under [Creative Common Attribution 4.0 International][CC].
 
 [CC]: https://creativecommons.org/licenses/by/4.0/
 [GADM]:  http://www.gadm.org/
