@@ -15,8 +15,6 @@ Install python pandas (as described in [pandas][pandas])
 ### Step 2. Edit manual files
 
 ## License
-
-## License
 Gapmidner created this dataset and provides it under [Creative Common Attribution 4.0 International][CC].
 
 [CC]: https://creativecommons.org/licenses/by/4.0/
