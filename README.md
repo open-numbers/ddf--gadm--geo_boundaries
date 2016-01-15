@@ -1,5 +1,5 @@
 
-[GADM][GADM]is a spatial database of the location of the world's administrative areas (or adminstrative boundaries) for use in GIS and similar software. This is work in progress. We intend to keep all gadm subdivisions in ddf format. See [GADM] for more info of what they have.
+[GADM][GADM] is a spatial database of the location of the world's administrative areas (or adminstrative boundaries) for use in GIS and similar software. This is work in progress. We intend to keep all gadm subdivisions in ddf format. See [GADM] for more info of what they have.
 
 ## Dataset scope
 Currently nothing.
