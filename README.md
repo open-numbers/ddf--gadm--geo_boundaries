@@ -9,7 +9,9 @@ Install python pandas (as described in [ETL Script Requirements][etl_req])
 #### Run
 
     $cd ../process/etl/
-    $python run.py
+    $python partial_etl.py
+
+As the script name indicates, additional etl is done manually.
 
 ### Step 2. Edit manual files
 
