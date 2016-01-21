@@ -16,9 +16,8 @@ import datetime
 import ogr
 import csv
 import pandas as pd
-import pandasql as pdsql
 #define root path
-root="/Users/FinArb/Documents/ddf--gadm--geo_boundaries/output"
+root=str(sys.argv[1])
 #take folder separator as per os
 pathspt=os.path.sep
 # path of zip files
