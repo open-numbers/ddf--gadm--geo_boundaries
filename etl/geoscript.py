@@ -17,8 +17,7 @@ import ogr
 import csv
 import pandas as pd
 #define root path
-root="/Volumes/Work/Active Projects/DropBox/GapMinder/Github/ddf--gadm--geo_boundaries/output"
-#str(sys.argv[1])
+root=str(sys.argv[1])
 #take folder separator as per os
 pathspt=os.path.sep
 # path of zip files
