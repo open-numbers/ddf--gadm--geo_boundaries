@@ -1,3 +1,5 @@
+THIS REPO IS NOT UP TP DATE WITH THE RECENT DDF STANDARD
+
 ## Data
 This dataset contains geographic boundaries of subdivisions of countries, mainly from [GADM][GADM], which is a spatial database of the location of the world's administrative areas (or adminstrative boundaries) for use in GIS and similar software. See [GADM][GADM] for more info about the underlaying data and the coverage. Currently nothing but the intention is to inclde the majority of content that [GADM][GADM] has.
 
